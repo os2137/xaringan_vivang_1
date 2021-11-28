@@ -1,0 +1,95 @@
+---
+title: "class_1_english"
+subtitle: "⚔<br/>with xaringan"
+author: "Onkar Singh"
+institute: "Shri Ram Global School"
+date: "2021/11/23 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r}
+library(xaringan)
+# install.packages("devtools")
+# devtools::install_github("gadenbuie/xaringanExtra")
+library(xaringanExtra)
+```
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+---
+class: inverse, center, middle
+
+# Word Test
+
+---
+
+
+# Word    Synonyms
+
+.pull-left[
+
+- Answer  =   reply
+
+- ask = question
+
+- begin = start
+
+- blend = mix
+
+- calm = quiet
+
+- cool = cold
+
+- difficult = hard
+
+- decide = choose
+
+- eager = keen
+
+- easy = simple
+
+- fear = fright 
+
+- fair  = just
+
+- fast = quick ]
+
+
+.pull-right[
+
+- fly = wing
+
+- gross = rude
+
+- have = gain 
+
+- idea = thought
+
+- keep  = hold
+
+- listen = hear
+
+- neat = tidy ]
+
+---
+
+
+
+
+
+
+
+
+
+
+
