@@ -1,0 +1,70 @@
+---
+title: "class_1_EVS"
+subtitle: "⚔<br/>with xaringan"
+author: "Onkar Singh"
+institute: "Shri Ram Global School"
+date: "2021/11/23 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: inverse, center, middle
+```{r, echo=FALSE}
+library(xaringan)
+# install.packages("devtools")
+# devtools::install_github("gadenbuie/xaringanExtra")
+library(xaringanExtra)
+```
+
+```{r , echo=FALSE}
+library(xaringanthemer)
+
+style_duo(
+  primary_color = "#1F4257",
+  secondary_color = "#F97B64",
+  header_font_google = google_font("Josefin Sans"),
+  text_font_google   = google_font("Montserrat", "300", "300i"),
+  code_font_google   = google_font("Fira Mono")
+)
+```
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+---
+class: inverse, center, middle
+
+# Final Exam EVS 21st March 2022 (Monday)
+
+## 11.30am to 12.30pm
+
+## Ms. Neeti Mathur
+
+## 269 430 0720
+
+## Window on the World
+---
+class: inverse, center, middle
+
+# Chapter 11: The World Around Me
+
+---
+class: inverse, center, middle
+# Chapter 12: Kinds of Houses
+
+---
+class: inverse, center, middle
+# Chapter 13: Early Humans
+
+---
+class: inverse, center, middle
+# Chapter 14: Being Good
+
+

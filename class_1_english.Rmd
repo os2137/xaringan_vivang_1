@@ -13,7 +13,7 @@ output:
       countIncrementalSlides: false
 ---
 
-```{r}
+```{r echo = FALSE}
 library(xaringan)
 # install.packages("devtools")
 # devtools::install_github("gadenbuie/xaringanExtra")
@@ -25,6 +25,18 @@ library(xaringanExtra)
 options(htmltools.dir.version = FALSE)
 ```
 
+
+```{r , echo=FALSE}
+library(xaringanthemer)
+
+style_duo(
+  primary_color = "#1F4257",
+  secondary_color = "#F97B64",
+  header_font_google = google_font("Josefin Sans"),
+  text_font_google   = google_font("Montserrat", "300", "300i"),
+  code_font_google   = google_font("Fira Mono")
+)
+```
 
 ---
 class: inverse, center, middle
@@ -81,15 +93,46 @@ class: inverse, center, middle
 
 - neat = tidy ]
 
+
 ---
+class: inverse, center, middle
 
+# Final Exam English 17th March 2022 (Thursday)
 
+## 11.30am to 12.30pm
 
+## Ms. Jaslin Narang
 
+## 774 629 8158
 
+## Gulmohar
+## Grammar
+## Creative Writing
+---
+class: inverse, center, middle
+Gulmohar
+# Chapter 10: The King's Drum 
+---
+class: inverse, center, middle
+Grammar:
+Ch-11 Am/Is/Are (to be verbs)
 
+---
+class: inverse, center, middle
+Grammar:
+Ch-14 Has/Have (have verbs)
 
+---
+class: inverse, center, middle
+Grammar:
+Ch-21 In/On/Under/Between (Prepositions of place)
 
+---
+class: inverse, center, middle
+Creative writing:
+Reading comprehension.
 
-
-
+---
+class: inverse, center, middle
+Creative writing:
+Picture composition

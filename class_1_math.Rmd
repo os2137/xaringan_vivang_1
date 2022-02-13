@@ -1,0 +1,72 @@
+---
+title: "class_1_EVS"
+subtitle: "⚔<br/>with xaringan"
+author: "Onkar Singh"
+institute: "Shri Ram Global School"
+date: "2021/11/23 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: inverse, center, middle
+```{r, echo=FALSE}
+library(xaringan)
+# install.packages("devtools")
+# devtools::install_github("gadenbuie/xaringanExtra")
+library(xaringanExtra)
+```
+
+```{r , echo=FALSE}
+library(xaringanthemer)
+
+style_duo(
+  primary_color = "#1F4257",
+  secondary_color = "#F97B64",
+  header_font_google = google_font("Josefin Sans"),
+  text_font_google   = google_font("Montserrat", "300", "300i"),
+  code_font_google   = google_font("Fira Mono")
+)
+```
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+---
+class: inverse, center, middle
+
+# Final Exam Mathematics 25th March 2022 (Friday)
+
+## 11.30am to 12.30pm
+
+## Ms. Surbhi Saharia
+
+## 350 341 7812
+
+## New Maths Time
+---
+class: inverse, center, middle
+
+# Ch-8 Numbers up to 100
+
+
+---
+class: inverse, center, middle
+# Ch-9 Addition and Subtraction up to 99
+
+---
+class: inverse, center, middle
+# Ch-10 Money
+
+
+
+---
+class: inverse, center, middle
+# Ch-12 Handling Data
+
