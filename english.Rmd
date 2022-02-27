@@ -115,24 +115,24 @@ Gulmohar
 ---
 class: inverse, center, middle
 Grammar:
-Ch-11 Am/Is/Are (to be verbs)
+# Ch-11 Am/Is/Are (to be verbs)
 
 ---
 class: inverse, center, middle
 Grammar:
-Ch-14 Has/Have (have verbs)
+# Ch-14 Has/Have (have verbs)
 
 ---
 class: inverse, center, middle
 Grammar:
-Ch-21 In/On/Under/Between (Prepositions of place)
+# Ch-21 In/On/Under/Between (Prepositions of place)
 
 ---
 class: inverse, center, middle
 Creative writing:
-Reading comprehension.
+# Reading comprehension.
 
 ---
 class: inverse, center, middle
 Creative writing:
-Picture composition
+# Picture composition
